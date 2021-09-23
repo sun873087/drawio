@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T05:28:17.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="YIb6HW5kg1oeZc_W9Lc3" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T06:01:47.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="VEeKUJo6Z6Ug_-ekv05_" version="15.3.0" type="github">
   <diagram id="g2sPS2e630axoAGhSb-m" name="Page-1">
-    <mxGraphModel dx="5944" dy="2352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5944" dy="3521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -575,13 +575,16 @@
           <mxGeometry x="-1380" y="1475.86" width="96" height="140" as="geometry" />
         </mxCell>
         <mxCell id="0ailgCxTkoC8kECtjlN6-79" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-256/sentry-3772947-3146736.png;" parent="1" vertex="1">
-          <mxGeometry x="-1340" y="1565.86" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1338" y="1560.86" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c-2g4E7CuWVWfXsMtLdn-81" value="" style="endArrow=none;html=1;strokeWidth=6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1480" y="1670" as="sourcePoint" />
             <mxPoint x="-170" y="1670" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="c-2g4E7CuWVWfXsMtLdn-82" value="&lt;font&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;現行架構&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="-20" width="1300" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
