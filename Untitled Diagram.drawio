@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T04:31:58.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="J501Pbbo6uGMPqeIs4YP" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T04:33:34.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="_QXAccFEOOl3xZYt_tel" version="15.3.0" type="github">
   <diagram id="g2sPS2e630axoAGhSb-m" name="Page-1">
     <mxGraphModel dx="4228" dy="1411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,29 +388,35 @@
         <mxCell id="0ailgCxTkoC8kECtjlN6-207" value="&lt;b&gt;LOG&lt;/b&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="0ailgCxTkoC8kECtjlN6-205" vertex="1">
           <mxGeometry y="197.5" width="110" height="27.14" as="geometry" />
         </mxCell>
-        <mxCell id="c-2g4E7CuWVWfXsMtLdn-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1180" y="150" width="253.97000000000003" height="160" as="geometry" />
+        <mxCell id="c-2g4E7CuWVWfXsMtLdn-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.wnc.com.tw/images/wnclogo.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="230" width="145" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="c-2g4E7CuWVWfXsMtLdn-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-5">
-          <mxGeometry width="253.97" height="160" as="geometry" />
+        <mxCell id="c-2g4E7CuWVWfXsMtLdn-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-680" y="50" width="370" height="233.10000000000002" as="geometry" />
         </mxCell>
-        <mxCell id="c-2g4E7CuWVWfXsMtLdn-3" value="&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 32px&quot;&gt;Internet&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-5">
-          <mxGeometry y="80" width="240" height="40" as="geometry" />
+        <mxCell id="c-2g4E7CuWVWfXsMtLdn-7" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-11">
+          <mxGeometry width="370" height="233.1" as="geometry" />
         </mxCell>
-        <mxCell id="c-2g4E7CuWVWfXsMtLdn-4" value="&lt;font style=&quot;font-size: 42px&quot; color=&quot;#007fff&quot;&gt;&lt;i&gt;&lt;b&gt;DMZ&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-5">
-          <mxGeometry y="40" width="240" height="40" as="geometry" />
+        <mxCell id="c-2g4E7CuWVWfXsMtLdn-8" value="&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 24px&quot;&gt;Wistron NeWeb Corp.&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-11">
+          <mxGeometry x="65" y="120" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c-2g4E7CuWVWfXsMtLdn-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-690" y="100" width="370" height="233.1" as="geometry" />
+        <mxCell id="c-2g4E7CuWVWfXsMtLdn-9" value="&lt;font style=&quot;font-size: 42px&quot; color=&quot;#007fff&quot;&gt;&lt;i&gt;&lt;b&gt;WNC&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-11">
+          <mxGeometry x="55" y="80" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c-2g4E7CuWVWfXsMtLdn-7" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-6">
-          <mxGeometry x="10" y="-50" width="370" height="233.1" as="geometry" />
+        <mxCell id="c-2g4E7CuWVWfXsMtLdn-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1220" y="50" width="370" height="233.10000000000002" as="geometry" />
         </mxCell>
-        <mxCell id="c-2g4E7CuWVWfXsMtLdn-8" value="&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 32px&quot;&gt;Internet&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-6">
-          <mxGeometry x="60" y="70" width="240" height="40" as="geometry" />
+        <mxCell id="c-2g4E7CuWVWfXsMtLdn-13" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-12">
+          <mxGeometry width="370" height="233.1" as="geometry" />
         </mxCell>
-        <mxCell id="c-2g4E7CuWVWfXsMtLdn-9" value="&lt;font style=&quot;font-size: 42px&quot; color=&quot;#007fff&quot;&gt;&lt;i&gt;&lt;b&gt;DMZ&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-6">
-          <mxGeometry x="65" y="30" width="240" height="40" as="geometry" />
+        <mxCell id="c-2g4E7CuWVWfXsMtLdn-14" value="&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 24px&quot;&gt;Internet Globe&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-12">
+          <mxGeometry x="65" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c-2g4E7CuWVWfXsMtLdn-15" value="&lt;font style=&quot;font-size: 42px&quot; color=&quot;#007fff&quot;&gt;&lt;i&gt;&lt;b&gt;DMZ&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-12">
+          <mxGeometry x="55" y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c-2g4E7CuWVWfXsMtLdn-16" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="c-2g4E7CuWVWfXsMtLdn-12">
+          <mxGeometry x="70" y="70" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
