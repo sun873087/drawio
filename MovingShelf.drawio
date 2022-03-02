@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T07:19:45.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Nj-jsOG_bwDA_6Ry_0lL" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T07:21:59.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="qCjPcEt-qfSCt1SG08mA" version="16.5.3" type="github" pages="2">
   <diagram id="dD4NnYdAAUk-1xQbA6xD" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -381,6 +381,304 @@
         </mxCell>
         <mxCell id="nIIQEl8C1FwThspnDqWh-81" value="Moving Shelf AGV入庫流程(正常)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="nIIQEl8C1FwThspnDqWh-42">
           <mxGeometry width="230" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RhljRvV-c8UZyOnCX0Ey" name="Page-2">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-0" />
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-1" parent="PaxX9aSEuctGZ8vVVciM-0" />
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-2" value="" style="group" vertex="1" connectable="0" parent="PaxX9aSEuctGZ8vVVciM-1">
+          <mxGeometry x="80" y="50" width="480" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-3" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-2">
+          <mxGeometry y="40" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-4" value="Moving Shelf" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-2">
+          <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-2" source="PaxX9aSEuctGZ8vVVciM-3" target="PaxX9aSEuctGZ8vVVciM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-6" value="WMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-2">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-2" source="PaxX9aSEuctGZ8vVVciM-4" target="PaxX9aSEuctGZ8vVVciM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-8" value="Moving Shelf" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-2">
+          <mxGeometry y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-9" value="EAP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-2">
+          <mxGeometry x="180" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-10" value="WMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-2">
+          <mxGeometry x="360" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-2" source="PaxX9aSEuctGZ8vVVciM-12" target="PaxX9aSEuctGZ8vVVciM-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="550" as="sourcePoint" />
+            <mxPoint x="350" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-2">
+          <mxGeometry x="50" y="436" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-2" source="PaxX9aSEuctGZ8vVVciM-14" target="PaxX9aSEuctGZ8vVVciM-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="550" as="sourcePoint" />
+            <mxPoint x="250" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-2">
+          <mxGeometry x="230" y="436" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-2" source="PaxX9aSEuctGZ8vVVciM-16" target="PaxX9aSEuctGZ8vVVciM-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="550" as="sourcePoint" />
+            <mxPoint x="430" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-2">
+          <mxGeometry x="410" y="436" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-41" value="Moving Shelf 入庫流程(正常)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-2">
+          <mxGeometry width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-42" value="" style="group" vertex="1" connectable="0" parent="PaxX9aSEuctGZ8vVVciM-1">
+          <mxGeometry x="590" y="50" width="480" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-43" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry y="40" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-44" value="Moving Shelf" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42" source="PaxX9aSEuctGZ8vVVciM-43" target="PaxX9aSEuctGZ8vVVciM-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-46" value="WMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42" source="PaxX9aSEuctGZ8vVVciM-44" target="PaxX9aSEuctGZ8vVVciM-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-48" value="Moving Shelf" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-49" value="EAP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry x="180" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-50" value="WMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry x="360" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42" source="PaxX9aSEuctGZ8vVVciM-52" target="PaxX9aSEuctGZ8vVVciM-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="550" as="sourcePoint" />
+            <mxPoint x="350" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry x="50" y="436" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42" source="PaxX9aSEuctGZ8vVVciM-54" target="PaxX9aSEuctGZ8vVVciM-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="550" as="sourcePoint" />
+            <mxPoint x="250" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry x="230" y="436" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42" source="PaxX9aSEuctGZ8vVVciM-56" target="PaxX9aSEuctGZ8vVVciM-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="550" as="sourcePoint" />
+            <mxPoint x="430" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry x="410" y="436" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-81" value="Moving Shelf 入庫流程(正常)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-449" y="178.5" as="sourcePoint" />
+            <mxPoint x="-269" y="178.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-26" value="入庫請求" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-269" y="208.5" as="sourcePoint" />
+            <mxPoint x="-449" y="208.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-28" value="入庫請求回報" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-449" y="258.5" as="sourcePoint" />
+            <mxPoint x="-269" y="258.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-30" value="入庫開始事件" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-449" y="288.5" as="sourcePoint" />
+            <mxPoint x="-269" y="288.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-32" value="入庫結束事件" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-449" y="328.5" as="sourcePoint" />
+            <mxPoint x="-269" y="328.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-34" value="入庫完成請求" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-268" y="348.5" as="sourcePoint" />
+            <mxPoint x="-88" y="348.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-36" value="入庫完成請求" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-89" y="371.5" as="sourcePoint" />
+            <mxPoint x="-269" y="371.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-38" value="入庫完成請求回報" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-269" y="390.5" as="sourcePoint" />
+            <mxPoint x="-449" y="390.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-40" value="入庫完成請求回報" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="61" y="178.5" as="sourcePoint" />
+            <mxPoint x="241" y="178.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-66" value="入庫請求" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="241" y="208.5" as="sourcePoint" />
+            <mxPoint x="61" y="208.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-68" value="入庫請求回報" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="61" y="258.5" as="sourcePoint" />
+            <mxPoint x="241" y="258.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-70" value="入庫開始事件" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="61" y="288.5" as="sourcePoint" />
+            <mxPoint x="241" y="288.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-72" value="入庫異常" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="61" y="328.5" as="sourcePoint" />
+            <mxPoint x="241" y="328.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-74" value="入庫完成請求" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-75" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242" y="348.5" as="sourcePoint" />
+            <mxPoint x="422" y="348.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-76" value="入庫異常" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421" y="371.5" as="sourcePoint" />
+            <mxPoint x="241" y="371.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-78" value="入庫異常回報" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PaxX9aSEuctGZ8vVVciM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="241" y="390.5" as="sourcePoint" />
+            <mxPoint x="61" y="390.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PaxX9aSEuctGZ8vVVciM-80" value="入庫異常回報" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PaxX9aSEuctGZ8vVVciM-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
