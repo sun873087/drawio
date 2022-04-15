@@ -1,1 +1,308 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T11:07:10.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" version="17.1.3" etag="DuOs_uIQMTzctPneZZ_h" type="github"><diagram id="2hyzlQpvfiihc5G2q-qc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-15T11:37:28.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="rLYs8zHoH53_gPAVtT_-" version="17.1.3" type="github">
+  <diagram id="2hyzlQpvfiihc5G2q-qc" name="Page-1">
+    <mxGraphModel dx="3015" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-10" value="HQ (總部)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="120" y="860" width="320" height="309" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-6" value="" style="group" vertex="1" connectable="0" parent="jgA5DOCZOwJayj_Tvle4-10">
+          <mxGeometry x="100" y="50" width="155" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-6">
+          <mxGeometry y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.com/images/erp-system-icon/erp-system-icon-9.jpg;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-6">
+          <mxGeometry x="80" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-16" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Production&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-10">
+          <mxGeometry x="95" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-15" value="WS1 (新竹廠)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="470" y="860" width="320" height="309" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-7" value="" style="group" vertex="1" connectable="0" parent="jgA5DOCZOwJayj_Tvle4-15">
+          <mxGeometry x="100" y="50" width="155" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-7">
+          <mxGeometry y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.com/images/erp-system-icon/erp-system-icon-9.jpg;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-7">
+          <mxGeometry x="80" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-17" value="Data Guard" style="text;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-15">
+          <mxGeometry x="90" y="170" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-18" value="WS2 (台南廠)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-14" value="" style="group" vertex="1" connectable="0" parent="jgA5DOCZOwJayj_Tvle4-18">
+          <mxGeometry x="77.06" y="240" width="175.87" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-14">
+          <mxGeometry y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Haproxy-logo.png/640px-Haproxy-logo.png;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-14">
+          <mxGeometry x="50" width="125.87" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=26;" edge="1" parent="jgA5DOCZOwJayj_Tvle4-18" source="jgA5DOCZOwJayj_Tvle4-45" target="jgA5DOCZOwJayj_Tvle4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-45" value="SFCS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-18">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-23" value="KS (崑山廠)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="464" y="330" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-24" value="" style="group" vertex="1" connectable="0" parent="jgA5DOCZOwJayj_Tvle4-23">
+          <mxGeometry x="77.06" y="240" width="175.87" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-24">
+          <mxGeometry y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Haproxy-logo.png/640px-Haproxy-logo.png;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-24">
+          <mxGeometry x="50" width="125.87" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=26;" edge="1" parent="jgA5DOCZOwJayj_Tvle4-23" source="jgA5DOCZOwJayj_Tvle4-46" target="jgA5DOCZOwJayj_Tvle4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-46" value="SFCS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-23">
+          <mxGeometry x="72.05999999999995" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-27" value="VN (越南廠)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="780" y="330" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-28" value="" style="group" vertex="1" connectable="0" parent="jgA5DOCZOwJayj_Tvle4-27">
+          <mxGeometry x="77.06" y="240" width="175.87" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-28">
+          <mxGeometry y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Haproxy-logo.png/640px-Haproxy-logo.png;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-28">
+          <mxGeometry x="50" width="125.87" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=26;" edge="1" parent="jgA5DOCZOwJayj_Tvle4-27" source="jgA5DOCZOwJayj_Tvle4-47" target="jgA5DOCZOwJayj_Tvle4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-47" value="SFCS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-27">
+          <mxGeometry x="72.05999999999995" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=26;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-33" target="jgA5DOCZOwJayj_Tvle4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-28" y="810" />
+              <mxPoint x="275" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-31" value="WS1 (新竹廠)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="330" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-32" value="" style="group" vertex="1" connectable="0" parent="jgA5DOCZOwJayj_Tvle4-31">
+          <mxGeometry x="77.06" y="240" width="175.87" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-32">
+          <mxGeometry y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Haproxy-logo.png/640px-Haproxy-logo.png;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-32">
+          <mxGeometry x="50" width="125.87" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=26;" edge="1" parent="jgA5DOCZOwJayj_Tvle4-31" source="jgA5DOCZOwJayj_Tvle4-44" target="jgA5DOCZOwJayj_Tvle4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-44" value="SFCS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-31">
+          <mxGeometry x="72" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=26;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-2" target="jgA5DOCZOwJayj_Tvle4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="810" />
+              <mxPoint x="275" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=26;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-25" target="jgA5DOCZOwJayj_Tvle4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="596" y="810" />
+              <mxPoint x="275" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=26;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-29" target="jgA5DOCZOwJayj_Tvle4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="912" y="810" />
+              <mxPoint x="275" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=26;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-33" target="jgA5DOCZOwJayj_Tvle4-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-28" y="810" />
+              <mxPoint x="625" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=26;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-2" target="jgA5DOCZOwJayj_Tvle4-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="810" />
+              <mxPoint x="625" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=26;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-25" target="jgA5DOCZOwJayj_Tvle4-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="596" y="810" />
+              <mxPoint x="625" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=26;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-29" target="jgA5DOCZOwJayj_Tvle4-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="912" y="810" />
+              <mxPoint x="625" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-53" value="&lt;font style=&quot;font-size: 42px&quot;&gt;&lt;b&gt;目前架構&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="230" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-54" value="HQ (總部)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="999" width="320" height="309" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-55" value="" style="group" vertex="1" connectable="0" parent="jgA5DOCZOwJayj_Tvle4-54">
+          <mxGeometry x="100" y="50" width="155" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-56" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-55">
+          <mxGeometry y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-57" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.com/images/erp-system-icon/erp-system-icon-9.jpg;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-55">
+          <mxGeometry x="80" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-58" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Production&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-54">
+          <mxGeometry x="95" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-59" value="WS1 (新竹廠)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="999" width="320" height="309" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-60" value="" style="group" vertex="1" connectable="0" parent="jgA5DOCZOwJayj_Tvle4-59">
+          <mxGeometry x="100" y="50" width="155" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-61" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-60">
+          <mxGeometry y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-62" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.com/images/erp-system-icon/erp-system-icon-9.jpg;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-60">
+          <mxGeometry x="80" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-63" value="Data Guard" style="text;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-59">
+          <mxGeometry x="90" y="170" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=42;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-64" target="jgA5DOCZOwJayj_Tvle4-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-64" value="WS2 (台南廠)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="327" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-65" value="" style="group" vertex="1" connectable="0" parent="jgA5DOCZOwJayj_Tvle4-64">
+          <mxGeometry x="77.06" y="240" width="175.87" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-66" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-65">
+          <mxGeometry y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-67" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Haproxy-logo.png/640px-Haproxy-logo.png;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-65">
+          <mxGeometry x="50" width="125.87" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=26;" edge="1" parent="jgA5DOCZOwJayj_Tvle4-64" source="jgA5DOCZOwJayj_Tvle4-69" target="jgA5DOCZOwJayj_Tvle4-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-69" value="SFCS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-64">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-70" value="KS (崑山廠)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1834" y="327" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-71" value="" style="group" vertex="1" connectable="0" parent="jgA5DOCZOwJayj_Tvle4-70">
+          <mxGeometry x="77.06" y="240" width="175.87" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-72" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-71">
+          <mxGeometry y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-73" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Haproxy-logo.png/640px-Haproxy-logo.png;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-71">
+          <mxGeometry x="50" width="125.87" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=26;" edge="1" parent="jgA5DOCZOwJayj_Tvle4-70" source="jgA5DOCZOwJayj_Tvle4-75" target="jgA5DOCZOwJayj_Tvle4-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-75" value="SFCS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-70">
+          <mxGeometry x="72.05999999999995" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-76" value="VN (越南廠)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="327" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-77" value="" style="group" vertex="1" connectable="0" parent="jgA5DOCZOwJayj_Tvle4-76">
+          <mxGeometry x="77.06" y="240" width="175.87" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-78" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-77">
+          <mxGeometry y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-79" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Haproxy-logo.png/640px-Haproxy-logo.png;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-77">
+          <mxGeometry x="50" width="125.87" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=26;" edge="1" parent="jgA5DOCZOwJayj_Tvle4-76" source="jgA5DOCZOwJayj_Tvle4-81" target="jgA5DOCZOwJayj_Tvle4-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-81" value="SFCS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-76">
+          <mxGeometry x="72.05999999999995" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=42;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-83" target="jgA5DOCZOwJayj_Tvle4-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-83" value="WS1 (新竹廠)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="327" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-84" value="" style="group" vertex="1" connectable="0" parent="jgA5DOCZOwJayj_Tvle4-83">
+          <mxGeometry x="77.06" y="240" width="175.87" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-85" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-84">
+          <mxGeometry y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-86" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Haproxy-logo.png/640px-Haproxy-logo.png;fontStyle=1" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-84">
+          <mxGeometry x="50" width="125.87" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=26;" edge="1" parent="jgA5DOCZOwJayj_Tvle4-83" source="jgA5DOCZOwJayj_Tvle4-88" target="jgA5DOCZOwJayj_Tvle4-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-88" value="SFCS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="jgA5DOCZOwJayj_Tvle4-83">
+          <mxGeometry x="72" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-96" value="&lt;font style=&quot;font-size: 42px&quot;&gt;&lt;b&gt;未來架構&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="227" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=42;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-104" target="jgA5DOCZOwJayj_Tvle4-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=42;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-104" target="jgA5DOCZOwJayj_Tvle4-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-104" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.nicepng.com/png/detail/127-1270838_google-kubernetes-engine-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="760" width="169.08" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=42;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-72" target="jgA5DOCZOwJayj_Tvle4-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=42;" edge="1" parent="1" source="jgA5DOCZOwJayj_Tvle4-78" target="jgA5DOCZOwJayj_Tvle4-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jgA5DOCZOwJayj_Tvle4-112" value="&lt;b&gt;Google Load balancer&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=26;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1899.08" y="780" width="300.92" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
